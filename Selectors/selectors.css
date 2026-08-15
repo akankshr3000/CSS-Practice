@@ -1,0 +1,28 @@
+ /* Qs1.
+Change the font of the entire document to 'Courier New'.
+
+Qs2.
+Change the color of the h1 heading to #1b74e4.
+
+Qs3.
+Set the background color of the button with id "searchbtn" to black and its text color to white.
+
+Qs4.
+Set the background color of all elements with the class "userbtn" to aqua. */ 
+ 
+ *{
+    font-family:'Courier New'; 
+ }
+
+ h1{
+    color: #1b74e4;
+ }
+
+ #searchbtn{
+    background-color: black;
+    color: white; 
+ }
+
+ .userbtn{
+    background-color: aqua; 
+ }
