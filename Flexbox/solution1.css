@@ -1,0 +1,21 @@
+#container{ 
+    height: 400px;
+    width: 400px;  
+    background-color: white; 
+    flex-direction: row; 
+    display: flex; 
+    justify-content: space-evenly; 
+    flex-wrap: wrap; 
+    border: 2px solid lightseagreen; 
+    align-items: center;   
+}
+
+.a{
+    height: 100px;
+    width: 100px; 
+    background-color: grey; 
+    border: 2px solid black; 
+    border-radius: 10px;  
+    font-size: 50px;  
+    text-align: center;   
+}
